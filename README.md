@@ -1,9 +1,5 @@
 ## Hi there 👋
-<picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api?username=yaojiale7067&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yaojiale7067)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **yaojiale7067/yaojiale7067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
