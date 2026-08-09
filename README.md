@@ -1,6 +1,9 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yaojiale7067)](https://github.com/stats-organization/github-stats-extended)
-
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=yaojiale7067&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
 <!--
 **yaojiale7067/yaojiale7067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaojiale7067)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
