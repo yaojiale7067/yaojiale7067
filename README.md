@@ -16,4 +16,5 @@
 - Use **Arch Linux** on my own PC and **Debian** on servers.
 - Use **Hyprland** as desktop environment.
 
-https://count.getloli.com/@github111?theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+<h3>visitor count：</h3>
+<img src="https://count.getloli.com/get/@6475578645547358_hm?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
