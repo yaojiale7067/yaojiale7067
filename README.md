@@ -1,11 +1,14 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yaojiale7067)](https://github.com/stats-organization/github-stats-extended)
+
 
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=yaojiale7067&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaojiale7067&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
 
+
+- Use **Arch Linux** on my own PC and **Debian** on servers.
+- Use **Hyprland** as desktop environment.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
