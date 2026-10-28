@@ -17,4 +17,4 @@
 - Use **Hyprland** as desktop environment.
 
 <h3>visitor count：</h3>
-<img src="https://count.getloli.com/get/@6475578645547358_hm?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
+<img src="https://count.getloli.com/@yaojiale7067?" alt="If you are unable to see this, please refresh the page.">
