@@ -12,6 +12,7 @@
   <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-00BBDD?style=for-the-badge&logo=hyprland&logoColor=white" /></a>
   <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
 </div>
+
 - Use **Arch Linux** on my own PC and **Debian** on servers.
 - Use **Hyprland** as desktop environment.
 <!--
