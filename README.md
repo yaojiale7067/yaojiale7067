@@ -1,6 +1,6 @@
-## Welcome! Here is YJL_SAMA 🌠
+## $Welcome! Here is YJL_SAMA 🌠
 
-### my blog
+### $my blog
 https://yaojiale7067.github.io/
 
 ### GitHub Stats
