@@ -1,6 +1,6 @@
 ## Welcome! Here is YJL_SAMA 🌠
 
-### BLOG
+### my blog
 https://yaojiale7067.github.io/
 
 ### GitHub Stats
