@@ -22,6 +22,9 @@ https://yaojiale7067.github.io/
     🖥️ Github Activity
 </h2>
 
+<p align="left">
+  <img src="https://github.com/yaojiale7067/yaojiale7067/tree/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
 
 <h3>visitor count：</h3>
 <img src="https://count.getloli.com/@yaojiale7067?" alt="If you are unable to see this, please refresh the page.">
