@@ -18,16 +18,9 @@ https://yaojiale7067.github.io/
 - Use **Arch Linux** on my own PC and **Debian** on servers.
 - Use **Hyprland** as desktop environment.
 
-
-
-    <h2>
+<h2>
     🖥️ Github Activity
-    <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-  </h2>
+</h2>
 
 
 <h3>visitor count：</h3>
