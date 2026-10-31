@@ -19,7 +19,7 @@ https://yaojiale7067.github.io/
 <h2>
     🖥️ Github Activity
     <p align="left">
-  <img src="https://github.com/yaojiale7067/yaojiale7067/tree/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://github.com/yaojiale7067/yaojiale7067/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
     </p>
 </h2>
 
