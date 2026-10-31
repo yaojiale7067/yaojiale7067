@@ -16,8 +16,8 @@ https://yaojiale7067.github.io/
 - Use **Arch Linux** on my own PC and **Debian** on servers.
 - Use **Hyprland** as desktop environment.
 
+###  🖥️ Github Activity
 <h2>
-    🖥️ Github Activity
     <p align="left">
   <img src="https://github.com/yaojiale7067/yaojiale7067/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
     </p>
