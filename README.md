@@ -19,7 +19,7 @@ https://yaojiale7067.github.io/
   <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
 </div>
 
-- Use **Arch Linux** on my own PC and **Debian** on servers.
+- Use **Arch Linux** and **Windows11** on my own PC and **Debian** on servers.
 - Use **Hyprland** as desktop environment.
 
 ###  🖥️ Github Activity
