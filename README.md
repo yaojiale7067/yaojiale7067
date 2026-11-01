@@ -4,8 +4,12 @@
 https://yaojiale7067.github.io/
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yaojiale7067&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaojiale7067&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=default&layout=compact">
+  <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact" width="40%">
+</picture>
+</div>
 
 <div align="center">
   <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
