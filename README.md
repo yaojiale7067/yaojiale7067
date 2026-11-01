@@ -4,6 +4,7 @@
 
 ### $my blog
 https://yaojiale7067.github.io/
+https://yaojiale7067blog.pages.dev/
 
 ### GitHub Stats
 <picture>
