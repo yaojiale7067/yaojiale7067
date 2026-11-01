@@ -1,7 +1,6 @@
 ## $Welcome! Here is YJL_SAMA 🌠
 - 14岁,事学生
 - 14-year-old student
-- from China/shanghai
 
 ### $my blog
 https://yaojiale7067.github.io/
