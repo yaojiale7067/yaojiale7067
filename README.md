@@ -1,13 +1,16 @@
 ## $Welcome! Here is YJL_SAMA 🌠
+- 14岁,事学生
+- 14-year-old student
+- from China/shanghai
 
 ### $my blog
 https://yaojiale7067.github.io/
 
 ### GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=default&layout=compact">
-  <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact" width="40%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yaojiale7067&theme=github_dark&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yaojiale7067&theme=default&layout=compact">
+  <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yaojiale7067&theme=github_dark&layout=compact" width="40%">
 </picture>
 </div>
 
