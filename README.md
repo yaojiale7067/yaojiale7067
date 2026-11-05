@@ -10,7 +10,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yaojiale7067&theme=github_dark&layout=compact">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yaojiale7067&theme=default&layout=compact">
-  <img src="https://github-stats-extended.vercel.app/api?username=yaojiale7067&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="My GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yaojiale7067&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="My GitHub Stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=yaojiale7067&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="My GitHub Stats">
   <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yaojiale7067&theme=github_dark&layout=compact" width="40%">
 </picture>
 </div>
@@ -33,3 +34,8 @@
 
 <h3>visitor count：</h3>
 <img src="https://count.getloli.com/@yaojiale7067?" alt="If you are unable to see this, please refresh the page.">
+
+
+
+
+<img src="https://github-stats-extended.vercel.app/api?username=yaojiale7067&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="My GitHub Stats" />
