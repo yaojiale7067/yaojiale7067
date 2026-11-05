@@ -15,6 +15,11 @@
 </div>
 
 <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=KrisTHL181&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="My GitHub Stats" />
+</div>
+
+
+<div align="center">
   <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
   <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-00BBDD?style=for-the-badge&logo=hyprland&logoColor=white" /></a>
   <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
