@@ -1,7 +1,8 @@
 ## $Welcome! Here is YJL_SAMA 🌠
 - 14岁,事学生
 - 14-year-old student
-
+- 可能不知道哪天就死了吧
+- Maybe I don't know which day I will die.
 ### $my blog
 - https://yaojiale7067.github.io/
 - https://yaojiale7067blog.pages.dev/
