@@ -36,7 +36,7 @@
 ###  🖥️ Github Activity
 <h2>
     <p align="left">
-  <img src="https://github.com/yaojiale7067/yaojiale7067/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://github.com/yaojiale7067/yaojiale7067/blob/main/profile-3d-contrib/profile-night-view.svg">
     </p>
 </h2>
 
